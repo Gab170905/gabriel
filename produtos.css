@@ -1,9 +1,8 @@
 header {
 background-color: #BBBBBBB;
-padding: 20px 0;
+padding: 25px 0;
 }
 .caixa{
-
   width: 940px;
   position: relative;
   margin: 0 auto;
@@ -18,7 +17,7 @@ nav li{
 
   display: inline;
   margin:-left: 15px;
-  
+x06  
 }
 
 nav a{
@@ -57,6 +56,12 @@ border-color: #c711;
 footer{
 background: url (bg.jpg);
   text-alian: center;
-
+  padding: 40px 0;
+}
+.copyright{  
+  color: #ffffff;
+font-size: 13px;
+  margin: 20px 0 0;
+}
   .produto li:
 }
